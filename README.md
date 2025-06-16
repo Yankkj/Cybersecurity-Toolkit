@@ -1,4 +1,4 @@
-# 🔒 GON Cybersecurity Toolkit
+#  GON Cybersecurity Toolkit
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![Batch](https://img.shields.io/badge/Batch-4D4D4D?logo=gnubash&logoColor=white)
@@ -8,7 +8,7 @@ A comprehensive command-line cybersecurity toolkit for Windows systems, providin
 
 ## Features
 
-### 🕵️ Reconnaissance Tools
+### 🕵 Reconnaissance Tools
 
 - Network scanning (ping, tracert, netstat)
 - DNS and ARP inspection
