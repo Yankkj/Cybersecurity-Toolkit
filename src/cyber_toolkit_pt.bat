@@ -4,7 +4,7 @@ title GON Cybersecurity Toolkit - Desenvolvido por @Yankkj
 color 04
 
 set "github_username=Yankkj"
-set "discord_username=imundar"
+set "discord_username=34sp"
 set "telegram_username=@feicoes"
 
 set "LOG_DIR=%~dp0logs"
